@@ -5,3 +5,20 @@ body {
     
    
 }
+.navagate {
+ position: relative;
+ width: 100%;
+ height: 100vh;
+ background:aqua
+}
+
+nav ul {
+display: flex;
+justify-content: space-between;
+
+}
+
+a { 
+    color: white;
+
+}
