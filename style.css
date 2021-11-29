@@ -25,7 +25,8 @@ nav ul {
     width: 300px;
     height: 540px;
     background-image: linear-gradient(red, yellow);
-
+    border: black solid 2px;
+    border-radius: 5px;
 }
 
 a { 
