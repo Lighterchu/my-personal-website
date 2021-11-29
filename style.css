@@ -33,6 +33,15 @@ nav ul {
     border: black solid 2px;
     border-radius: 5px;
 }
+
+.info h1 {
+    color:rgb(255, 208, 0);
+    text-shadow: 2px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+
+
 .Games-Mod {
     position: relative;
     text-align: center;
@@ -42,6 +51,11 @@ nav ul {
     border: black solid 2px;
     border-radius: 5px;
 }
+.Games-Mod h1 {
+    color:rgb(255, 208, 0);
+    text-shadow: 2px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
 
 a { 
     color: white;
