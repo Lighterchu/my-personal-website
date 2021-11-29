@@ -55,6 +55,24 @@ nav ul {
     color:rgb(255, 208, 0);
     text-shadow: 2px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
+.img-bounce{
+    animation: move 6s infinite;
+    
+}
+
+@keyframes move{
+    0%{
+        transform:rotate(10deg);
+        
+    }50%{
+        transform:rotate(60deg);
+        
+    }100%{
+        transform:rotate(360deg);
+        
+    }
+}
+
 
 
 a { 
