@@ -21,6 +21,12 @@ nav ul {
     display: flex;
     justify-content: center;
 }
+cards-aboutMe {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    
+}
 
 .info {
     position: relative;
@@ -33,6 +39,23 @@ nav ul {
     border: black solid 2px;
     border-radius: 5px;
 }
+
+.title-aboutMe  {
+    position: relative;
+    text-align: center;
+}
+
+.info-aboutMe {
+    position: relative;
+    margin-left: 500px;
+    width: 800px;
+    height: 540px;
+    background-image: linear-gradient(red, yellow);
+    border: black solid 2px;
+    border-radius: 5px;
+}
+
+
 
 .info h1 {
     color:rgb(255, 208, 0);
